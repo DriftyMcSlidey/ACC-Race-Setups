@@ -1,0 +1,73 @@
+==  Thrustmaster T300 == 
+
+Steer lock: 900
+Gain: 70
+Min force: 0
+Dynamic Damping: 100
+Road Effects: 8
+Logitech G29 / G920
+Steer lock: 900
+Gain: 100
+Min force: 10
+Dynamic Damping: 0
+Road Effects: 10
+Steering Linearity: 1
+
+==  Fanatec CSL Elite PS4 == 
+
+Steer lock: 90
+Gain: 75
+Min force: 0
+Dynamic Damping: 100
+Road Effects: 0
+SEN: 1080
+FF: 100
+SHO: 100
+ABS: Nach belieben (aus ist Empfehlung)
+DRI: -01
+FOR: 100
+SPR: 100
+DPR: 100
+BRF: Nach belieben (aus ist Empfehlung)
+FEI: 80
+
+== Fanatec CSW 2.5 / 2.0 == 
+
+Steer lock: 900
+Gain: 70
+Min Force: 0
+Dynamic Damping: 100
+Road Effects: 0
+
+Tuninng Menu (Fanatec):
+
+SEN 900
+FF 100
+SHO 100
+ABS Nach belieben (aus ist Empfehlung)
+DRI 003 (CSW 2.5 –01)
+FOR 100
+SPR 100*
+DPR 100*
+BRF Nach belieben (aus ist Empfehlung)
+
+== Podium Wheel Base DD1 / DD2 == 
+
+Steer lock: 1080
+Gain: 70
+Min Force: 0
+Dynamic Damping: 100
+Road Effects: 0
+
+Tuninng Menu (Fanatec):
+
+SEN 1080
+FF 38
+SHO 100
+ABS Nach belieben (aus ist Empfehlung)
+FOR 100
+SPR 100*
+DPR 100NDP 10NFR 5
+BRF Nach belieben (aus ist Empfehlung)
+FEI 100
+MPS Const.
