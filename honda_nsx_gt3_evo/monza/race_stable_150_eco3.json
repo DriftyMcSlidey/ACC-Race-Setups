@@ -1,0 +1,85 @@
+{
+	"carName": "honda_nsx_gt3_evo",
+	"basicSetup":
+	{
+		"tyres":
+		{
+			"tyreCompound": 0,
+			"tyrePressure": [ 59, 65, 56, 61 ]
+		},
+		"alignment":
+		{
+			"camber": [ 8, 8, 20, 18 ],
+			"toe": [ 35, 35, 45, 45 ],
+			"staticCamber": [ -2.9808704853057861, -2.9780774116516113, -3.0214686393737793, -3.223106861114502 ],
+			"toeOutLinear": [ 0.00046903287875466049, 0.00046902976464480162, 0.00015974065172486007, 0.0001598018134245649 ],
+			"casterLF": 15,
+			"casterRF": 15,
+			"steerRatio": 3
+		},
+		"electronics":
+		{
+			"tC1": 3,
+			"tC2": 1,
+			"abs": 3,
+			"eCUMap": 1,
+			"fuelMix": 0,
+			"telemetryLaps": 15
+		},
+		"strategy":
+		{
+			"fuel": 0,
+			"nPitStops": 0,
+			"tyreSet": 8,
+			"frontBrakePadCompound": 0,
+			"rearBrakePadCompound": 0,
+			"pitStrategy": [
+				{
+					"fuelToAdd": 0,
+					"tyres":
+					{
+						"tyreCompound": 0,
+						"tyrePressure": [ 59, 65, 56, 61 ]
+					},
+					"tyreSet": 26,
+					"frontBrakePadCompound": 0,
+					"rearBrakePadCompound": 0
+				}
+			],
+			"fuelPerLap": 3.4500000476837158
+		}
+	},
+	"advancedSetup":
+	{
+		"mechanicalBalance":
+		{
+			"aRBFront": 4,
+			"aRBRear": 0,
+			"wheelRate": [ 2, 2, 3, 3 ],
+			"bumpStopRateUp": [ 6, 6, 1, 1 ],
+			"bumpStopRateDn": [ 0, 0, 10, 10 ],
+			"bumpStopWindow": [ 0, 0, 2, 2 ],
+			"brakeTorque": 20,
+			"brakeBias": 32
+		},
+		"dampers":
+		{
+			"bumpSlow": [ 9, 8, 35, 33 ],
+			"bumpFast": [ 22, 22, 17, 21 ],
+			"reboundSlow": [ 15, 11, 30, 30 ],
+			"reboundFast": [ 22, 24, 27, 31 ]
+		},
+		"aeroBalance":
+		{
+			"rideHeight": [ 11, 6, 28, 18 ],
+			"rodLength": [ -10.248878479003906, -10.248878479003906, 21.220094680786133, 21.220094680786133 ],
+			"splitter": 0,
+			"rearWing": 0,
+			"brakeDuct": [ 2, 2 ]
+		},
+		"drivetrain":
+		{
+			"preload": 15
+		}
+	}
+}
